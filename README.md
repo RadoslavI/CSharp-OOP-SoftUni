@@ -1,2 +1,2 @@
 # CSharp-OOP-SoftUni
-Problems and examples from the C# OOP Course in SoftUni May 2022
+Problems and examples from the C# OOP Course in SoftUni June 2022
