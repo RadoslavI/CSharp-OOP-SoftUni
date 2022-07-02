@@ -1,0 +1,14 @@
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\saske\Downloads\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache
