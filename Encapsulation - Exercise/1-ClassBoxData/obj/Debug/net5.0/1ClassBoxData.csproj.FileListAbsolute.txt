@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\bin\Debug\net5.0\1ClassBoxData.exe
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\bin\Debug\net5.0\1ClassBoxData.deps.json
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\bin\Debug\net5.0\1ClassBoxData.runtimeconfig.json
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\bin\Debug\net5.0\1ClassBoxData.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\bin\Debug\net5.0\1ClassBoxData.dll
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\bin\Debug\net5.0\1ClassBoxData.pdb
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\obj\Debug\net5.0\1ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\obj\Debug\net5.0\1ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\obj\Debug\net5.0\1ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\obj\Debug\net5.0\1ClassBoxData.AssemblyInfo.cs
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\obj\Debug\net5.0\1ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\obj\Debug\net5.0\1ClassBoxData.dll
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\obj\Debug\net5.0\refint\1ClassBoxData.dll
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\obj\Debug\net5.0\1ClassBoxData.pdb
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\obj\Debug\net5.0\1ClassBoxData.genruntimeconfig.cache
+C:\Users\saske\source\repos\Encapsulation - Exercise\1ClassBoxData\obj\Debug\net5.0\ref\1ClassBoxData.dll
