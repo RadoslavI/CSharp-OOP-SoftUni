@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\bin\Debug\net5.0\3-ShoppingSpree.exe
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\bin\Debug\net5.0\3-ShoppingSpree.deps.json
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\bin\Debug\net5.0\3-ShoppingSpree.runtimeconfig.json
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\bin\Debug\net5.0\3-ShoppingSpree.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\bin\Debug\net5.0\3-ShoppingSpree.dll
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\bin\Debug\net5.0\3-ShoppingSpree.pdb
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\obj\Debug\net5.0\3-ShoppingSpree.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\obj\Debug\net5.0\3-ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\obj\Debug\net5.0\3-ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\obj\Debug\net5.0\3-ShoppingSpree.AssemblyInfo.cs
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\obj\Debug\net5.0\3-ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\obj\Debug\net5.0\3-ShoppingSpree.dll
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\obj\Debug\net5.0\refint\3-ShoppingSpree.dll
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\obj\Debug\net5.0\3-ShoppingSpree.pdb
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\obj\Debug\net5.0\3-ShoppingSpree.genruntimeconfig.cache
+C:\Users\saske\source\repos\Encapsulation - Exercise\3-ShoppingSpree\obj\Debug\net5.0\ref\3-ShoppingSpree.dll
