@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\bin\Debug\net5.0\4-PizzaCalories.exe
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\bin\Debug\net5.0\4-PizzaCalories.deps.json
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\bin\Debug\net5.0\4-PizzaCalories.runtimeconfig.json
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\bin\Debug\net5.0\4-PizzaCalories.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\bin\Debug\net5.0\4-PizzaCalories.dll
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\bin\Debug\net5.0\4-PizzaCalories.pdb
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\obj\Debug\net5.0\4-PizzaCalories.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\obj\Debug\net5.0\4-PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\obj\Debug\net5.0\4-PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\obj\Debug\net5.0\4-PizzaCalories.AssemblyInfo.cs
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\obj\Debug\net5.0\4-PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\obj\Debug\net5.0\4-PizzaCalories.dll
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\obj\Debug\net5.0\refint\4-PizzaCalories.dll
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\obj\Debug\net5.0\4-PizzaCalories.pdb
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\obj\Debug\net5.0\4-PizzaCalories.genruntimeconfig.cache
+C:\Users\saske\source\repos\Encapsulation - Exercise\4-PizzaCalories\obj\Debug\net5.0\ref\4-PizzaCalories.dll
