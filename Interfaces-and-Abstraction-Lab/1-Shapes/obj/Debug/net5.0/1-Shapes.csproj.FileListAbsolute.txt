@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\bin\Debug\net5.0\1-Shapes.exe
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\bin\Debug\net5.0\1-Shapes.deps.json
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\bin\Debug\net5.0\1-Shapes.runtimeconfig.json
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\bin\Debug\net5.0\1-Shapes.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\bin\Debug\net5.0\1-Shapes.dll
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\bin\Debug\net5.0\1-Shapes.pdb
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\obj\Debug\net5.0\1-Shapes.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\obj\Debug\net5.0\1-Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\obj\Debug\net5.0\1-Shapes.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\obj\Debug\net5.0\1-Shapes.AssemblyInfo.cs
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\obj\Debug\net5.0\1-Shapes.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\obj\Debug\net5.0\1-Shapes.dll
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\obj\Debug\net5.0\refint\1-Shapes.dll
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\obj\Debug\net5.0\1-Shapes.pdb
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\obj\Debug\net5.0\1-Shapes.genruntimeconfig.cache
+C:\Users\saske\source\repos\Interfaces-and-Abstraction-Lab\1-Shapes\obj\Debug\net5.0\ref\1-Shapes.dll
