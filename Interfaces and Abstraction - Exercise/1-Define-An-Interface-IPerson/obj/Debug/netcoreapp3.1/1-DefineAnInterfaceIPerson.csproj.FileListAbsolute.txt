@@ -1,0 +1,14 @@
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.exe
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.deps.json
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.dll
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.pdb
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.dll
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.pdb
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\1-DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\1-DefineAnInterfaceIPerson.genruntimeconfig.cache
