@@ -1,0 +1,14 @@
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\bin\Debug\netcoreapp3.1\7-Military-Elite.exe
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\bin\Debug\netcoreapp3.1\7-Military-Elite.deps.json
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\bin\Debug\netcoreapp3.1\7-Military-Elite.runtimeconfig.json
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\bin\Debug\netcoreapp3.1\7-Military-Elite.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\bin\Debug\netcoreapp3.1\7-Military-Elite.dll
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\bin\Debug\netcoreapp3.1\7-Military-Elite.pdb
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\obj\Debug\netcoreapp3.1\7-Military-Elite.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\obj\Debug\netcoreapp3.1\7-Military-Elite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\obj\Debug\netcoreapp3.1\7-Military-Elite.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\obj\Debug\netcoreapp3.1\7-Military-Elite.AssemblyInfo.cs
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\obj\Debug\netcoreapp3.1\7-Military-Elite.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\obj\Debug\netcoreapp3.1\7-Military-Elite.dll
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\obj\Debug\netcoreapp3.1\7-Military-Elite.pdb
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\7-Military-Elite\obj\Debug\netcoreapp3.1\7-Military-Elite.genruntimeconfig.cache
