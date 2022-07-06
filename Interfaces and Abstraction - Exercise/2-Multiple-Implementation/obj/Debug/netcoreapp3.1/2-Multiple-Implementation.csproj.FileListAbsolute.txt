@@ -1,0 +1,14 @@
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\bin\Debug\netcoreapp3.1\2-Multiple-Implementation.exe
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\bin\Debug\netcoreapp3.1\2-Multiple-Implementation.deps.json
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\bin\Debug\netcoreapp3.1\2-Multiple-Implementation.runtimeconfig.json
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\bin\Debug\netcoreapp3.1\2-Multiple-Implementation.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\bin\Debug\netcoreapp3.1\2-Multiple-Implementation.dll
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\bin\Debug\netcoreapp3.1\2-Multiple-Implementation.pdb
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\obj\Debug\netcoreapp3.1\2-Multiple-Implementation.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\obj\Debug\netcoreapp3.1\2-Multiple-Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\obj\Debug\netcoreapp3.1\2-Multiple-Implementation.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\obj\Debug\netcoreapp3.1\2-Multiple-Implementation.AssemblyInfo.cs
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\obj\Debug\netcoreapp3.1\2-Multiple-Implementation.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\obj\Debug\netcoreapp3.1\2-Multiple-Implementation.dll
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\obj\Debug\netcoreapp3.1\2-Multiple-Implementation.pdb
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\2-Multiple-Implementation\obj\Debug\netcoreapp3.1\2-Multiple-Implementation.genruntimeconfig.cache
