@@ -1,0 +1,14 @@
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\bin\Debug\netcoreapp3.1\5-Birthday-Celebrations.exe
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\bin\Debug\netcoreapp3.1\5-Birthday-Celebrations.deps.json
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\bin\Debug\netcoreapp3.1\5-Birthday-Celebrations.runtimeconfig.json
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\bin\Debug\netcoreapp3.1\5-Birthday-Celebrations.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\bin\Debug\netcoreapp3.1\5-Birthday-Celebrations.dll
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\bin\Debug\netcoreapp3.1\5-Birthday-Celebrations.pdb
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\obj\Debug\netcoreapp3.1\5-Birthday-Celebrations.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\obj\Debug\netcoreapp3.1\5-Birthday-Celebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\obj\Debug\netcoreapp3.1\5-Birthday-Celebrations.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\obj\Debug\netcoreapp3.1\5-Birthday-Celebrations.AssemblyInfo.cs
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\obj\Debug\netcoreapp3.1\5-Birthday-Celebrations.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\obj\Debug\netcoreapp3.1\5-Birthday-Celebrations.dll
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\obj\Debug\netcoreapp3.1\5-Birthday-Celebrations.pdb
+C:\Users\saske\source\repos\Interfaces and Abstraction - Exercise\5-Birthday-Celebrations\obj\Debug\netcoreapp3.1\5-Birthday-Celebrations.genruntimeconfig.cache
