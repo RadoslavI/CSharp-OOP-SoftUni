@@ -1,0 +1,14 @@
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\bin\Debug\netcoreapp3.1\3-Raiding.exe
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\bin\Debug\netcoreapp3.1\3-Raiding.deps.json
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\bin\Debug\netcoreapp3.1\3-Raiding.runtimeconfig.json
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\bin\Debug\netcoreapp3.1\3-Raiding.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\bin\Debug\netcoreapp3.1\3-Raiding.dll
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\bin\Debug\netcoreapp3.1\3-Raiding.pdb
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\obj\Debug\netcoreapp3.1\3-Raiding.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\obj\Debug\netcoreapp3.1\3-Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\obj\Debug\netcoreapp3.1\3-Raiding.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\obj\Debug\netcoreapp3.1\3-Raiding.AssemblyInfo.cs
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\obj\Debug\netcoreapp3.1\3-Raiding.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\obj\Debug\netcoreapp3.1\3-Raiding.dll
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\obj\Debug\netcoreapp3.1\3-Raiding.pdb
+C:\Users\saske\source\repos\Polymorphism - Exercise\3-Raiding\obj\Debug\netcoreapp3.1\3-Raiding.genruntimeconfig.cache
