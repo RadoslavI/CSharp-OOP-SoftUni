@@ -1,0 +1,14 @@
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\bin\Debug\netcoreapp3.1\2-Vehicles-Extension.exe
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\bin\Debug\netcoreapp3.1\2-Vehicles-Extension.deps.json
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\bin\Debug\netcoreapp3.1\2-Vehicles-Extension.runtimeconfig.json
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\bin\Debug\netcoreapp3.1\2-Vehicles-Extension.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\bin\Debug\netcoreapp3.1\2-Vehicles-Extension.dll
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\bin\Debug\netcoreapp3.1\2-Vehicles-Extension.pdb
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\obj\Debug\netcoreapp3.1\2-Vehicles-Extension.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\obj\Debug\netcoreapp3.1\2-Vehicles-Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\obj\Debug\netcoreapp3.1\2-Vehicles-Extension.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\obj\Debug\netcoreapp3.1\2-Vehicles-Extension.AssemblyInfo.cs
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\obj\Debug\netcoreapp3.1\2-Vehicles-Extension.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\obj\Debug\netcoreapp3.1\2-Vehicles-Extension.dll
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\obj\Debug\netcoreapp3.1\2-Vehicles-Extension.pdb
+C:\Users\saske\source\repos\Polymorphism - Exercise\2-Vehicles-Extension\obj\Debug\netcoreapp3.1\2-Vehicles-Extension.genruntimeconfig.cache
