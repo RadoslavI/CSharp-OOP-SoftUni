@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\bin\Debug\netcoreapp3.1\3-Cards.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\bin\Debug\netcoreapp3.1\3-Cards.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\bin\Debug\netcoreapp3.1\3-Cards.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\bin\Debug\netcoreapp3.1\3-Cards.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\bin\Debug\netcoreapp3.1\3-Cards.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\bin\Debug\netcoreapp3.1\3-Cards.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\obj\Debug\netcoreapp3.1\3-Cards.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\obj\Debug\netcoreapp3.1\3-Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\obj\Debug\netcoreapp3.1\3-Cards.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\obj\Debug\netcoreapp3.1\3-Cards.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\obj\Debug\netcoreapp3.1\3-Cards.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\obj\Debug\netcoreapp3.1\3-Cards.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\obj\Debug\netcoreapp3.1\3-Cards.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\3-Cards\obj\Debug\netcoreapp3.1\3-Cards.genruntimeconfig.cache
