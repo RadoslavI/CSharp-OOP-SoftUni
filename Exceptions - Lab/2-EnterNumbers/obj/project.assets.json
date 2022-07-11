@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Exceptions - Lab\\1-SquareRoot\\1-SquareRoot.csproj",
-      "projectName": "1-SquareRoot",
-      "projectPath": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Exceptions - Lab\\1-SquareRoot\\1-SquareRoot.csproj",
+      "projectUniqueName": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Exceptions - Lab\\2-EnterNumbers\\2-EnterNumbers.csproj",
+      "projectName": "2-EnterNumbers",
+      "projectPath": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Exceptions - Lab\\2-EnterNumbers\\2-EnterNumbers.csproj",
       "packagesPath": "C:\\Users\\saske\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Exceptions - Lab\\1-SquareRoot\\obj\\",
+      "outputPath": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Exceptions - Lab\\2-EnterNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
