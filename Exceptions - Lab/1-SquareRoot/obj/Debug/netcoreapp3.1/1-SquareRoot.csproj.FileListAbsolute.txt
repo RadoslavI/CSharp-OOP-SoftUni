@@ -12,3 +12,17 @@ C:\Users\saske\source\repos\1-SquareRoot\1-SquareRoot\obj\Debug\netcoreapp3.1\1-
 C:\Users\saske\source\repos\1-SquareRoot\1-SquareRoot\obj\Debug\netcoreapp3.1\1-SquareRoot.dll
 C:\Users\saske\source\repos\1-SquareRoot\1-SquareRoot\obj\Debug\netcoreapp3.1\1-SquareRoot.pdb
 C:\Users\saske\source\repos\1-SquareRoot\1-SquareRoot\obj\Debug\netcoreapp3.1\1-SquareRoot.genruntimeconfig.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\bin\Debug\netcoreapp3.1\1-SquareRoot.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\bin\Debug\netcoreapp3.1\1-SquareRoot.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\bin\Debug\netcoreapp3.1\1-SquareRoot.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\bin\Debug\netcoreapp3.1\1-SquareRoot.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\bin\Debug\netcoreapp3.1\1-SquareRoot.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\bin\Debug\netcoreapp3.1\1-SquareRoot.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\obj\Debug\netcoreapp3.1\1-SquareRoot.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\obj\Debug\netcoreapp3.1\1-SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\obj\Debug\netcoreapp3.1\1-SquareRoot.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\obj\Debug\netcoreapp3.1\1-SquareRoot.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\obj\Debug\netcoreapp3.1\1-SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\obj\Debug\netcoreapp3.1\1-SquareRoot.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\obj\Debug\netcoreapp3.1\1-SquareRoot.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\1-SquareRoot\obj\Debug\netcoreapp3.1\1-SquareRoot.genruntimeconfig.cache

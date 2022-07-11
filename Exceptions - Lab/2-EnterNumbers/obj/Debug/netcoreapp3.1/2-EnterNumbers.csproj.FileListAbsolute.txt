@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\bin\Debug\netcoreapp3.1\2-EnterNumbers.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\bin\Debug\netcoreapp3.1\2-EnterNumbers.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\bin\Debug\netcoreapp3.1\2-EnterNumbers.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\bin\Debug\netcoreapp3.1\2-EnterNumbers.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\bin\Debug\netcoreapp3.1\2-EnterNumbers.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\bin\Debug\netcoreapp3.1\2-EnterNumbers.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\obj\Debug\netcoreapp3.1\2-EnterNumbers.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\obj\Debug\netcoreapp3.1\2-EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\obj\Debug\netcoreapp3.1\2-EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\obj\Debug\netcoreapp3.1\2-EnterNumbers.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\obj\Debug\netcoreapp3.1\2-EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\obj\Debug\netcoreapp3.1\2-EnterNumbers.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\obj\Debug\netcoreapp3.1\2-EnterNumbers.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exceptions - Lab\2-EnterNumbers\obj\Debug\netcoreapp3.1\2-EnterNumbers.genruntimeconfig.cache
