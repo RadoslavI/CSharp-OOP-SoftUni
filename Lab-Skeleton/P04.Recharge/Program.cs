@@ -1,7 +1,5 @@
-﻿namespace P04.Recharge
+﻿namespace L04.Recharge
 {
-    using System;
-
     class Program
     {
         static void Main()
