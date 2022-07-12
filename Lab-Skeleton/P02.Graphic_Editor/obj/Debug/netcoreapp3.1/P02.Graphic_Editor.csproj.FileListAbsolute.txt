@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.genruntimeconfig.cache

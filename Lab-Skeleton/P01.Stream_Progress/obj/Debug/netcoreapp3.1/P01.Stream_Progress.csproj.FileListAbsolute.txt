@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.genruntimeconfig.cache
