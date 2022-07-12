@@ -1,16 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace P03.DetailPrinter
+﻿namespace L03.DetailPrinter
 {
-    public class Employee
+    public abstract class Employee : IEmployee
     {
         public Employee(string name)
         {
-            this.Name = name;
+            Name = name;
         }
 
-        public string Name { get; set; }
+        public string Name { get; }
+
+        public override string ToString()
+        {
+            return Name;
+        }
     }
 }

@@ -1,16 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
-namespace P03.DetailPrinter
+namespace L03.DetailPrinter
 {
     public class Manager : Employee
     {
-        public Manager(string name, ICollection<string> documents) : base(name)
+        public Manager(string name, IEnumerable<string> documents) : base(name)
         {
-            this.Documents = new List<string>(documents);
+            Documents = new List<string>(documents);
         }
 
-        public IReadOnlyCollection<string> Documents { get; set; }
+        public IReadOnlyCollection<string> Documents { get; }
+
+        public override string ToString()
+        {
+            return $"{base.ToString()}\n{string.Join(Environment.NewLine, Documents)}";
+        }
     }
 }
