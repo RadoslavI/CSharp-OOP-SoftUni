@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\obj\Debug\netcoreapp3.1\1-Logger.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\obj\Debug\netcoreapp3.1\1-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\obj\Debug\netcoreapp3.1\1-Logger.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\obj\Debug\netcoreapp3.1\1-Logger.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\obj\Debug\netcoreapp3.1\1-Logger.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\bin\Debug\netcoreapp3.1\1-Logger.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\bin\Debug\netcoreapp3.1\1-Logger.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\bin\Debug\netcoreapp3.1\1-Logger.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\bin\Debug\netcoreapp3.1\1-Logger.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\bin\Debug\netcoreapp3.1\1-Logger.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\bin\Debug\netcoreapp3.1\1-Logger.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\obj\Debug\netcoreapp3.1\1-Logger.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\obj\Debug\netcoreapp3.1\1-Logger.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\SOLID - Exercise\SOLID - Exercise\1-Logger\obj\Debug\netcoreapp3.1\1-Logger.genruntimeconfig.cache
