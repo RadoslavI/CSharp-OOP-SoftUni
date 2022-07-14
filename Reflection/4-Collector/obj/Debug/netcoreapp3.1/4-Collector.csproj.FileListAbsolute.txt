@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\bin\Debug\netcoreapp3.1\4-Collector.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\bin\Debug\netcoreapp3.1\4-Collector.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\bin\Debug\netcoreapp3.1\4-Collector.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\bin\Debug\netcoreapp3.1\4-Collector.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\bin\Debug\netcoreapp3.1\4-Collector.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\bin\Debug\netcoreapp3.1\4-Collector.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\obj\Debug\netcoreapp3.1\4-Collector.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\obj\Debug\netcoreapp3.1\4-Collector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\obj\Debug\netcoreapp3.1\4-Collector.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\obj\Debug\netcoreapp3.1\4-Collector.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\obj\Debug\netcoreapp3.1\4-Collector.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\obj\Debug\netcoreapp3.1\4-Collector.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\obj\Debug\netcoreapp3.1\4-Collector.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\4-Collector\obj\Debug\netcoreapp3.1\4-Collector.genruntimeconfig.cache
