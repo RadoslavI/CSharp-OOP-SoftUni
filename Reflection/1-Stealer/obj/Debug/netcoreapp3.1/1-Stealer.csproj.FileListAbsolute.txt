@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\bin\Debug\netcoreapp3.1\1-Stealer.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\bin\Debug\netcoreapp3.1\1-Stealer.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\bin\Debug\netcoreapp3.1\1-Stealer.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\bin\Debug\netcoreapp3.1\1-Stealer.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\bin\Debug\netcoreapp3.1\1-Stealer.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\bin\Debug\netcoreapp3.1\1-Stealer.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\obj\Debug\netcoreapp3.1\1-Stealer.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\obj\Debug\netcoreapp3.1\1-Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\obj\Debug\netcoreapp3.1\1-Stealer.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\obj\Debug\netcoreapp3.1\1-Stealer.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\obj\Debug\netcoreapp3.1\1-Stealer.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\obj\Debug\netcoreapp3.1\1-Stealer.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\obj\Debug\netcoreapp3.1\1-Stealer.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\1-Stealer\obj\Debug\netcoreapp3.1\1-Stealer.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\bin\Debug\netcoreapp3.1\3-MissionPrivateImpossible.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\bin\Debug\netcoreapp3.1\3-MissionPrivateImpossible.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\bin\Debug\netcoreapp3.1\3-MissionPrivateImpossible.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\bin\Debug\netcoreapp3.1\3-MissionPrivateImpossible.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\bin\Debug\netcoreapp3.1\3-MissionPrivateImpossible.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\bin\Debug\netcoreapp3.1\3-MissionPrivateImpossible.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\obj\Debug\netcoreapp3.1\3-MissionPrivateImpossible.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\obj\Debug\netcoreapp3.1\3-MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\obj\Debug\netcoreapp3.1\3-MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\obj\Debug\netcoreapp3.1\3-MissionPrivateImpossible.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\obj\Debug\netcoreapp3.1\3-MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\obj\Debug\netcoreapp3.1\3-MissionPrivateImpossible.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\obj\Debug\netcoreapp3.1\3-MissionPrivateImpossible.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\3-MissionPrivateImpossible\obj\Debug\netcoreapp3.1\3-MissionPrivateImpossible.genruntimeconfig.cache
