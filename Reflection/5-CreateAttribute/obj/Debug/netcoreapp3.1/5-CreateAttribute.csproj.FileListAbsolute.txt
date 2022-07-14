@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\bin\Debug\netcoreapp3.1\5-CreateAttribute.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\bin\Debug\netcoreapp3.1\5-CreateAttribute.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\bin\Debug\netcoreapp3.1\5-CreateAttribute.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\bin\Debug\netcoreapp3.1\5-CreateAttribute.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\bin\Debug\netcoreapp3.1\5-CreateAttribute.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\bin\Debug\netcoreapp3.1\5-CreateAttribute.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\obj\Debug\netcoreapp3.1\5-CreateAttribute.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\obj\Debug\netcoreapp3.1\5-CreateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\obj\Debug\netcoreapp3.1\5-CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\obj\Debug\netcoreapp3.1\5-CreateAttribute.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\obj\Debug\netcoreapp3.1\5-CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\obj\Debug\netcoreapp3.1\5-CreateAttribute.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\obj\Debug\netcoreapp3.1\5-CreateAttribute.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\5-CreateAttribute\obj\Debug\netcoreapp3.1\5-CreateAttribute.genruntimeconfig.cache
