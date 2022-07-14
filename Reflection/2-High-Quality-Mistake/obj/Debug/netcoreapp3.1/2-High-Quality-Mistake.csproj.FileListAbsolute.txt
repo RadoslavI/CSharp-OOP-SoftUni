@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\bin\Debug\netcoreapp3.1\2-High-Quality-Mistake.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\bin\Debug\netcoreapp3.1\2-High-Quality-Mistake.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\bin\Debug\netcoreapp3.1\2-High-Quality-Mistake.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\bin\Debug\netcoreapp3.1\2-High-Quality-Mistake.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\bin\Debug\netcoreapp3.1\2-High-Quality-Mistake.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\bin\Debug\netcoreapp3.1\2-High-Quality-Mistake.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\obj\Debug\netcoreapp3.1\2-High-Quality-Mistake.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\obj\Debug\netcoreapp3.1\2-High-Quality-Mistake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\obj\Debug\netcoreapp3.1\2-High-Quality-Mistake.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\obj\Debug\netcoreapp3.1\2-High-Quality-Mistake.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\obj\Debug\netcoreapp3.1\2-High-Quality-Mistake.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\obj\Debug\netcoreapp3.1\2-High-Quality-Mistake.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\obj\Debug\netcoreapp3.1\2-High-Quality-Mistake.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Reflection\2-High-Quality-Mistake\obj\Debug\netcoreapp3.1\2-High-Quality-Mistake.genruntimeconfig.cache

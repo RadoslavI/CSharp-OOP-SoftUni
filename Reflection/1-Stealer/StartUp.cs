@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace _1_Stealer
+namespace Stealer
 {
-    internal class Program
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Spy spy = new Spy();
+            string result = spy.StealFieldInfo("Stealer.Hacker", "username", "password");
+            Console.WriteLine(result);
         }
     }
 }
