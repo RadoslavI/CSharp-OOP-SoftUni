@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Collector", "4-Collector\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CreateAttribute", "5-CreateAttribute\5-CreateAttribute.csproj", "{2B6F533F-08D8-4E70-B927-8698C8D49C91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-CodeTracker", "6-CodeTracker\6-CodeTracker.csproj", "{1EFF00A2-CA00-45F7-942E-EAC4B4EDAF7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2B6F533F-08D8-4E70-B927-8698C8D49C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B6F533F-08D8-4E70-B927-8698C8D49C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B6F533F-08D8-4E70-B927-8698C8D49C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFF00A2-CA00-45F7-942E-EAC4B4EDAF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFF00A2-CA00-45F7-942E-EAC4B4EDAF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFF00A2-CA00-45F7-942E-EAC4B4EDAF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFF00A2-CA00-45F7-942E-EAC4B4EDAF7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
