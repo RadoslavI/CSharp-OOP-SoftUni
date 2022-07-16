@@ -1,0 +1,14 @@
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.AssemblyReference.cache
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\saske\Downloads\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache
