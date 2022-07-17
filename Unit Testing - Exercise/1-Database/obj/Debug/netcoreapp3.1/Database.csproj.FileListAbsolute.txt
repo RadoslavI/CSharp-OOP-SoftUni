@@ -1,0 +1,10 @@
+C:\Users\saske\Downloads\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\saske\Downloads\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\saske\Downloads\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\saske\Downloads\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache
+C:\Users\saske\Downloads\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Downloads\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\saske\Downloads\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\saske\Downloads\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\saske\Downloads\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\saske\Downloads\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.pdb
