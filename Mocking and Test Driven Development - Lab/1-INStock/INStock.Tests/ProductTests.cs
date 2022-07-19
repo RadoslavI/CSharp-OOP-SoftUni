@@ -1,9 +1,7 @@
 namespace INStock.Tests
 {
-    using NUnit.Framework;
-
     public class ProductTests
     {
-        
+        // what am I supposed to test?
     }
 }

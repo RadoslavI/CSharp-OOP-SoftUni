@@ -5631,11 +5631,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saske\\Downloads\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock - Skeleton\\INStock.Tests\\INStock.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Mocking and Test Driven Development - Lab\\1-INStock\\INStock.Tests\\INStock.Tests.csproj",
       "projectName": "INStock.Tests",
-      "projectPath": "C:\\Users\\saske\\Downloads\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock - Skeleton\\INStock.Tests\\INStock.Tests.csproj",
+      "projectPath": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Mocking and Test Driven Development - Lab\\1-INStock\\INStock.Tests\\INStock.Tests.csproj",
       "packagesPath": "C:\\Users\\saske\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saske\\Downloads\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock - Skeleton\\INStock.Tests\\obj\\",
+      "outputPath": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Mocking and Test Driven Development - Lab\\1-INStock\\INStock.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5656,8 +5656,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\saske\\Downloads\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock - Skeleton\\INStock\\INStock.csproj": {
-              "projectPath": "C:\\Users\\saske\\Downloads\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock - Skeleton\\INStock\\INStock.csproj"
+            "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Mocking and Test Driven Development - Lab\\1-INStock\\INStock\\INStock.csproj": {
+              "projectPath": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Mocking and Test Driven Development - Lab\\1-INStock\\INStock\\INStock.csproj"
             }
           }
         }

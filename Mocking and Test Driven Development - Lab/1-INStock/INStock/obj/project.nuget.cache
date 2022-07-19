@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kPn8Uz0avDdwiY/EqYVGkBKLlL6G6GIw0/4BkK7DtOPkaGq+2xWyituC7yY4QloFXNbsj2ouhBW9OAduajDdjw==",
+  "dgSpecHash": "GEY5MoheIZ/LBkwtcPlDdvHcbhF0yGSjEqaq0Ac8IfH7SLzFv/gcdfYTdJZpuHl4e+pApvNrJwm7oaQFmRrsfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saske\\Downloads\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock - Skeleton\\INStock\\INStock.csproj",
+  "projectFilePath": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Mocking and Test Driven Development - Lab\\1-INStock\\INStock\\INStock.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

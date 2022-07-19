@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saske\\Downloads\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock - Skeleton\\INStock\\INStock.csproj": {}
+    "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Mocking and Test Driven Development - Lab\\1-INStock\\INStock\\INStock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saske\\Downloads\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock - Skeleton\\INStock\\INStock.csproj": {
+    "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Mocking and Test Driven Development - Lab\\1-INStock\\INStock\\INStock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saske\\Downloads\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock - Skeleton\\INStock\\INStock.csproj",
+        "projectUniqueName": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Mocking and Test Driven Development - Lab\\1-INStock\\INStock\\INStock.csproj",
         "projectName": "INStock",
-        "projectPath": "C:\\Users\\saske\\Downloads\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock - Skeleton\\INStock\\INStock.csproj",
+        "projectPath": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Mocking and Test Driven Development - Lab\\1-INStock\\INStock\\INStock.csproj",
         "packagesPath": "C:\\Users\\saske\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saske\\Downloads\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock - Skeleton\\INStock\\obj\\",
+        "outputPath": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Mocking and Test Driven Development - Lab\\1-INStock\\INStock\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

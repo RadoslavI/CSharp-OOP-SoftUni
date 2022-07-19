@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\bin\Debug\netcoreapp3.1\INStock.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\bin\Debug\netcoreapp3.1\INStock.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\bin\Debug\netcoreapp3.1\INStock.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\bin\Debug\netcoreapp3.1\INStock.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\obj\Debug\netcoreapp3.1\INStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\obj\Debug\netcoreapp3.1\INStock.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\obj\Debug\netcoreapp3.1\INStock.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Mocking and Test Driven Development - Lab\1-INStock\INStock\obj\Debug\netcoreapp3.1\INStock.genruntimeconfig.cache

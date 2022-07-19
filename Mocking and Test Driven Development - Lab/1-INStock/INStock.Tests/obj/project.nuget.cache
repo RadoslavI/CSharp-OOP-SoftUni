@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jYXSe5upjP19xQxXPoAtgkWkE6aGnKGqtL5sGppLW1d6X4R52/qQcjkXEUHe5OmdrIkUD1K9imLGfAaTaFpTHw==",
+  "dgSpecHash": "au4NLQFhcFhVgrWSxdGLMeYLTrpAEDpQW/59Pw4NQfx0yIG33Bq0V1fe+8H6YUJ87PzryGZ0glihw5sGsydmfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saske\\Downloads\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock - Skeleton\\INStock.Tests\\INStock.Tests.csproj",
+  "projectFilePath": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\Mocking and Test Driven Development - Lab\\1-INStock\\INStock.Tests\\INStock.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saske\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
     "C:\\Users\\saske\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
