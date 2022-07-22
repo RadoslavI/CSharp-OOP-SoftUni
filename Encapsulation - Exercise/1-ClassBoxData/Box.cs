@@ -1,43 +1,38 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace _1ClassBoxData
+namespace E01.ClassBoxData
 {
     public class Box
     {
-        private double lenght;
+        private double length;
         private double width;
         private double height;
 
-        public Box(double lenght, double width, double height)
+        public Box(double length, double width, double height)
         {
-            Lenght = lenght;
-            Width = width;  
+            Length = length;
+            Width = width;
             Height = height;
         }
-        private double Lenght
+
+        public double Length
         {
-            get { return lenght; }
-            
-            set 
-            { 
+            get => length;
+            private set
+            {
                 if (value <= 0)
                 {
-                    throw new ArgumentException($"Lenght cannot be zero or negative.");
+                    throw new ArgumentException($"Length cannot be zero or negative.");
                 }
 
-                lenght = value; 
+                length = value;
             }
         }
-
-        private double Width
+        public double Width
         {
-            get { return width; }
-
-            set
+            get => width;
+            private set
             {
                 if (value <= 0)
                 {
@@ -47,12 +42,10 @@ namespace _1ClassBoxData
                 width = value;
             }
         }
-
-        private double Height
+        public double Height
         {
-            get { return height; }
-
-            set
+            get => height;
+            private set
             {
                 if (value <= 0)
                 {
@@ -63,27 +56,30 @@ namespace _1ClassBoxData
             }
         }
 
-
-        //        volume = lwh
-        //lateral surface area = 2lh + 2wh
-        //surface area = 2lw + 2lh + 2wh
         public double SurfaceArea()
         {
-            var result = 2 * (Lenght * Width + Lenght * Height + Width * Height);
-            return result;
+            return 2 * length * width + 2 * length * height + 2 * width * height;
         }
 
         public double LateralSurfaceArea()
         {
-            var result = 2 * (Lenght * Height + Width * Height);
-            return result;
+            return 2 * length * height + 2 * width * height;
         }
 
         public double Volume()
         {
-            var result = (Lenght * Height * Width);
-            return result;
+            return length * width * height;
         }
 
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"Surface Area - {SurfaceArea():f2}");
+            sb.AppendLine($"Lateral Surface Area - {LateralSurfaceArea():f2}");
+            sb.AppendLine($"Volume - {Volume():f2}");
+
+            return sb.ToString().Trim();
+        }
     }
 }

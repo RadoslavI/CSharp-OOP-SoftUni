@@ -1,29 +1,23 @@
 ﻿using System;
 
-namespace _1ClassBoxData
+namespace E01.ClassBoxData
 {
-    internal class StartUp
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            double lenght = double.Parse(Console.ReadLine());
-            double width = double.Parse(Console.ReadLine());
-            double height = double.Parse(Console.ReadLine());
-            Box box = null;
+            double l = double.Parse(Console.ReadLine());
+            double w = double.Parse(Console.ReadLine());
+            double h = double.Parse(Console.ReadLine());
 
             try
             {
-                 box = new Box(lenght, width, height);
+                Console.WriteLine(new Box(l, w, h));
             }
-            catch (ArgumentException ex)
+            catch (ArgumentException e)
             {
-                Console.WriteLine(ex.Message);
-                return;
+                Console.WriteLine(e.Message);
             }
-
-            Console.WriteLine("Surface Area - " + "{0:0.00}", box.SurfaceArea());
-            Console.WriteLine("Lateral Surface Area - " + "{0:0.00}", box.LateralSurfaceArea());
-            Console.WriteLine($"Volume - " + "{0:0.00}", box.Volume());
         }
     }
 }

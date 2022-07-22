@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\bin\Debug\netcoreapp3.1\1-ClassBoxData.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\bin\Debug\netcoreapp3.1\1-ClassBoxData.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\bin\Debug\netcoreapp3.1\1-ClassBoxData.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\bin\Debug\netcoreapp3.1\1-ClassBoxData.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\bin\Debug\netcoreapp3.1\1-ClassBoxData.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\bin\Debug\netcoreapp3.1\1-ClassBoxData.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\obj\Debug\netcoreapp3.1\1-ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\obj\Debug\netcoreapp3.1\1-ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\obj\Debug\netcoreapp3.1\1-ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\obj\Debug\netcoreapp3.1\1-ClassBoxData.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\obj\Debug\netcoreapp3.1\1-ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\obj\Debug\netcoreapp3.1\1-ClassBoxData.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\obj\Debug\netcoreapp3.1\1-ClassBoxData.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Encapsulation - Exercise\1-ClassBoxData\obj\Debug\netcoreapp3.1\1-ClassBoxData.genruntimeconfig.cache
