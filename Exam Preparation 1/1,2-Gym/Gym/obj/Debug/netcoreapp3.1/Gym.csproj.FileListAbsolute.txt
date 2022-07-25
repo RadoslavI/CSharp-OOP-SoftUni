@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\obj\Debug\netcoreapp3.1\Gym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\Exam Preparation 1\1,2-Gym\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache
