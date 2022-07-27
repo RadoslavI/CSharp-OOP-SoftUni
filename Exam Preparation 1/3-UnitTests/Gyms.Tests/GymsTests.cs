@@ -136,7 +136,7 @@ namespace Gyms.Tests
 
             Assert.AreEqual(true, athlete.IsInjured);
              
-            //IMPORTANT! WE HAVE TO CHECK IF IT IS RETURNED CORRECTLY!!!
+            //IMPORTANT! WE HAVE TO CHECK IF IT IS RETURNED CORRECTLY!!!!
             Assert.AreSame(returnAthlete, athlete);
         }
 
