@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\14.Retake Exam - 18 April 2021\03.Unit Tests\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache
