@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\obj\Debug\netcoreapp3.1\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\bin\Debug\netcoreapp3.1\Formula1.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\bin\Debug\netcoreapp3.1\Formula1.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\bin\Debug\netcoreapp3.1\Formula1.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\bin\Debug\netcoreapp3.1\Formula1.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\obj\Debug\netcoreapp3.1\Formula1.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\obj\Debug\netcoreapp3.1\Formula1.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\15.Exam - 09 April 2022\1 & 2 - Structure & Business Logic\Formula1\obj\Debug\netcoreapp3.1\Formula1.genruntimeconfig.cache
