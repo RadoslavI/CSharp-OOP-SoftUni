@@ -1,6 +1,7 @@
 ﻿using NUnit.Framework;
 using System;
 using System.ComponentModel;
+using System.Linq;
 using System.Numerics;
 
 namespace PlanetWars.Tests
@@ -36,6 +37,10 @@ namespace PlanetWars.Tests
                     Planet planet = new Planet(null, 20);
                 });
 
+                Planet planet2 = new Planet("asd", 10);
+
+                Assert.AreEqual("asd", planet2.Name);
+
             }
 
 
@@ -62,6 +67,9 @@ namespace PlanetWars.Tests
                 planet2.AddWeapon(weapon);
 
                 Assert.AreEqual(1, planet2.Weapons.Count);
+
+                Assert.AreSame(weapon, planet2.Weapons.First());
+
             }
 
             [Test]
@@ -76,6 +84,11 @@ namespace PlanetWars.Tests
 
                 planet2.AddWeapon(weapon);
                 planet2.AddWeapon(weapon2);
+                Assert.Throws<InvalidOperationException>(() =>
+                {
+                    planet2.AddWeapon(weapon2);
+
+                });
                 planet2.RemoveWeapon("aaa");
 
                 Assert.AreEqual(1, planet2.Weapons.Count);
@@ -83,8 +96,18 @@ namespace PlanetWars.Tests
                 planet2.UpgradeWeapon("aaaa");
                 Assert.AreEqual(11, weapon2.DestructionLevel);
 
+                Assert.Throws<InvalidOperationException>(() =>
+                {
+                    planet2.UpgradeWeapon("aaaaassad");
+                });
+
                 planet2.SpendFunds(1);
                 Assert.AreEqual(9, planet2.Budget);
+                Assert.Throws<InvalidOperationException>(() =>
+                {
+                    planet2.SpendFunds(20);
+
+                });
 
                 planet2.Profit(1);
                 Assert.AreEqual(10, planet2.Budget);
@@ -94,12 +117,23 @@ namespace PlanetWars.Tests
 
                 Assert.AreEqual("asd is destructed!", result);
 
+                Assert.Throws<InvalidOperationException>(() =>
+                {
+                    var testplanet = new Planet("asd", 100);
+                    testplanet.AddWeapon(new Weapon("super", 10, 100));
+                    planet2.DestructOpponent(testplanet);
+                });
 
 
                 var weapon3 = new Weapon("a", 10, 5);
                 Assert.AreEqual("a", weapon3.Name);
                 Assert.AreEqual(10, weapon3.Price);
                 Assert.AreEqual(5, weapon3.DestructionLevel);
+                Assert.Throws<ArgumentException>(() =>
+                {
+                    var testWeapon = new Weapon("a", -10, 2);
+                });
+
 
                 var nuclear = weapon3.IsNuclear;
 

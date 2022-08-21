@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P8JBOCa4W2XTV5en8XoYW3wM/iev0PyHErfY/hDeevnX4jEDfk9l1+7Ue8CJPrGxiaH965qxAZ6mlgyfLoOZjQ==",
+  "dgSpecHash": "hZxomE+7XB+DJJSjwYRDRoked6YR3IHtHWXbupbCvYGZOw34LTLZvESvkjk0ys7pd6HomuHKjJPj3J4Xtom0rA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\16.Exam - 14 August 2022\\PlanetWars.Tests\\PlanetWars.Tests.csproj",
+  "projectFilePath": "C:\\Users\\saske\\Documents\\GitHub\\CSharp-OOP-SoftUni\\16.Exam - 14 August 2022\\03.Tests\\PlanetWars.Tests\\PlanetWars.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saske\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\saske\\.nuget\\packages\\microsoft.codecoverage\\17.2.0\\microsoft.codecoverage.17.2.0.nupkg.sha512",

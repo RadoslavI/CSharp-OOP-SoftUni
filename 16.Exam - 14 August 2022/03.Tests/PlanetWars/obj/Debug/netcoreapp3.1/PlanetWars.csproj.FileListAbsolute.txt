@@ -12,3 +12,17 @@ C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\Plan
 C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.dll
 C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.pdb
 C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.genruntimeconfig.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\16.Exam - 14 August 2022\03.Tests\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.genruntimeconfig.cache
