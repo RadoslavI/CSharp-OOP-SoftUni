@@ -12,29 +12,29 @@ namespace PlanetWars.Repositories
 {
     public class UnitRepository : IRepository<IMilitaryUnit>
     {
-        private readonly List<IMilitaryUnit> units;
+        private readonly List<IMilitaryUnit> models;
 
         public UnitRepository()
         {
-            units = new List<IMilitaryUnit>();
+            models = new List<IMilitaryUnit>();
         }
 
         public IReadOnlyCollection<IMilitaryUnit> Models
-            => units;
+            => models;
 
         public void AddItem(IMilitaryUnit model)
         {
-            units.Add(model);
+            models.Add(model);
         }
 
         public IMilitaryUnit FindByName(string name)
         {
-            return units.FirstOrDefault(x => x.GetType().Name == name);
+            return models.FirstOrDefault(x => x.GetType().Name == name);
         }
 
         public bool RemoveItem(string name)
         {
-            return units.Remove(FindByName(name));
+            return models.Remove(FindByName(name));
         }
     }
 }

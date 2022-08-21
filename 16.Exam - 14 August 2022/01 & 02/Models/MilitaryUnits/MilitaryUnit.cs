@@ -1,4 +1,5 @@
 ﻿using PlanetWars.Models.MilitaryUnits.Contracts;
+using PlanetWars.Utilities.Messages;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -22,7 +23,7 @@ namespace PlanetWars.Models.MilitaryUnits
             if (EnduranceLevel > 20)
             {
                 EnduranceLevel = 20;
-                throw new ArgumentException("Endurance level cannot exceed 20 power points.");
+                throw new ArgumentException(ExceptionMessages.EnduranceLevelExceeded);
             }
         }
     }

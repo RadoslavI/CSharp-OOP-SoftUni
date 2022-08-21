@@ -10,29 +10,29 @@ namespace PlanetWars.Repositories
 {
     public class PlanetRepository : IRepository<IPlanet>
     {
-        private readonly List<IPlanet> planets;
+        private readonly List<IPlanet> models;
 
         public PlanetRepository()
         {
-            planets = new List<IPlanet>();
+            models = new List<IPlanet>();
         }
 
         public IReadOnlyCollection<IPlanet> Models
-            => planets;
+            => models;
 
         public void AddItem(IPlanet model)
         {
-            planets.Add(model);
+            models.Add(model);
         }
 
         public IPlanet FindByName(string name)
         {
-            return planets.FirstOrDefault(x => x.Name == name);
+            return models.FirstOrDefault(x => x.Name == name);
         }
 
         public bool RemoveItem(string name)
         {
-            return planets.Remove(FindByName(name));
+            return models.Remove(FindByName(name));
         }
     }
 }
