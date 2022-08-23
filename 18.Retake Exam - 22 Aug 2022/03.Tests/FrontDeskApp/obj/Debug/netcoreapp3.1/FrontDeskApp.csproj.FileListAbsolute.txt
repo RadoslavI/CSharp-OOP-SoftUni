@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.exe
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.deps.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.dll
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.pdb
+C:\Users\saske\Documents\GitHub\CSharp-OOP-SoftUni\18.Retake Exam – 22 Aug 2022\03.Tests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.genruntimeconfig.cache
