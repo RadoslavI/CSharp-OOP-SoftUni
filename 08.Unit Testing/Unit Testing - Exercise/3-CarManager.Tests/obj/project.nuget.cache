@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ahmQZkeDAIfYet1buNFfm0XFSiIBPeVm1Ktgy9atEiYn3OZbe91KKrB4zeib8E24Ixq+yzJu3SxCIrzNLZqAg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\saske\\Downloads\\Skeleton\\CarManager.Tests\\CarManager.Tests.csproj",
+  "dgSpecHash": "nkXNnMB5jtFO0xJVzkH54/1g/TOvsPOADHrrz73wRElgfdNr6Ijv338S/t44MFjf4A+8t4ij5HrEZ1jHgzA/2Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\saske\\OneDrive\\Documents\\GitHub\\CSharp-OOP-SoftUni\\08.Unit Testing\\Unit Testing - Exercise\\3-CarManager.Tests\\CarManager.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saske\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\saske\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
@@ -98,7 +98,20 @@
     "C:\\Users\\saske\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\saske\\.nuget\\packages\\system.xml.xmlserializer\\4.0.11\\system.xml.xmlserializer.4.0.11.nupkg.sha512",
     "C:\\Users\\saske\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\saske\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\saske\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\saske\\OneDrive\\Documents\\GitHub\\CSharp-OOP-SoftUni\\08.Unit Testing\\Unit Testing - Exercise\\CarManager\\CarManager.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\saske\\OneDrive\\Documents\\GitHub\\CSharp-OOP-SoftUni\\08.Unit Testing\\Unit Testing - Exercise\\CarManager\\CarManager.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
